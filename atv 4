@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Maiores times do Brasil</title>
+</head>
+<body>
+    <h1>Maiores times do Brasil</h1>
+    <p>Na minha opinião, o Flamengo é o maior!</p>
+
+    <ol start="3" type="a">
+        <li>Flamengo</li>
+        <li>Corinthians</li>
+        <li>São Paulo</li>
+        <li>Palmeiras</li>
+        <li>Santos</li>
+    </ol>
+
+    <h2>Do terceiro ao maior</h2>
+
+    <ol reversed>
+        <li>São Paulo</li>
+        <li>Corinthians</li>
+        <li>Flamengo</li>
+    </ol>
+</body>
+</html>
